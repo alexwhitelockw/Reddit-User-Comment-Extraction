@@ -163,6 +163,3 @@ cython_debug/
 
 # Reddit Access Setup
 /functions/setup_reddit_api_access.py
-
-# Test Scripts
-/scripts/
